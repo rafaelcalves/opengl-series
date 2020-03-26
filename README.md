@@ -1,3 +1,10 @@
+# Disclaimer
+
+This repository is a fork from [tomdalling/opengl-series](https://github.com/tomdalling/opengl-series) and aims to be used as a project template for learning exercises. 
+
+Att., 
+[Rafael Corrêa](https://github.com/rafaelcalves/), and [Fabiane Kuhn](https://github.com/fabianekuhn)
+
 # About
 
 This is a repository of open-source code to accompany a series of OpenGL articles on
